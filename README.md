@@ -37,7 +37,7 @@ Kotlin Primer is designed to get you up and running with Kotlin efficiently. Thi
    - For VS Code: Install the Kotlin extension
 
 3. **Start learning!**
-   - Visit the [📖 Interactive Documentation](https://karic-kenan.github.io/kotlin-primer/)
+   - Visit the [📖 Interactive Documentation](https://kenan-karic.github.io/kotlin-primer/)
    - Follow the lessons in order or jump to topics of interest
    - Run the examples and experiment with the code
    - Practice with the concepts as you progress
@@ -126,11 +126,11 @@ The complete course is available in the interactive documentation. Here's what y
 ### **Conclusion**
 - Summary
 
-**[🚀 Start Learning Now](https://karic-kenan.github.io/kotlin-primer/)**
+**[🚀 Start Learning Now](https://kenan-karic.github.io/kotlin-primer/)**
 
 ## 📖 Documentation
 
-**[📖 Open Interactive Course Documentation](https://karic-kenan.github.io/kotlin-primer/)**
+**[📖 Open Interactive Course Documentation](https://kenan-karic.github.io/kotlin-primer/)**
 
 All course materials are beautifully presented with Docsify, featuring:
 - Interactive navigation and search
@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by **Kenan Karic** - passionate about modern software development and education.
 
-- GitHub: [@karic-kenan](https://github.com/karic-kenan)
+- GitHub: [@kenan-karic](https://github.com/kenan-karic)
 
 ## ⭐ Support
 
